@@ -7,3 +7,5 @@ Some demo for Html、Css、Javascript、JQuery
 
 [哆啦a梦](https://jsfiddle.net/rubatong/99j0zc2d/embedded/result/)
 >修改自[Pure CSS Design](http://purecss3.net/doraemon/doraemon_css3.html),需翻墙访问,国内查看[地址](http://mijiale.me/dora.html)
+
+已在IE、Chrome下验证
